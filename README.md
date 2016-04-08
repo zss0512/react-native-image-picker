@@ -3,7 +3,7 @@ A image picker for react-native, supprt for ios and android
 
 ## Installation
 ```sh
-npm install @remobile/react-native-image-picker --save
+npm install @zss0512/react-native-image-picker --save
 ```
 ### Installation (iOS)
 * Drag RCTImagePicker.xcodeproj to your project on Xcode.
